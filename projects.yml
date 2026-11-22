@@ -11,7 +11,7 @@
 
 - title: "FFAR Soil Health Portfolio"
   subtitle: "Shiny Web App"
-  image: FFARscreenshot.png
+  image: images/FFARscreenshot.png
   path: https://amberbouchard-ffar-soil-health-dashboard.share.connect.posit.cloud/
   
 - title: "Urban Land Evaluation & Site Assessment"
