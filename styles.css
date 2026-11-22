@@ -148,3 +148,9 @@ img.map-figure {
 .resume-page a {
   color: #32fbe2;
 }
+
+.navbar-brand,
+.navbar-brand:hover {
+  color: #32fbe2 !important;
+  text-decoration: none;
+}
