@@ -1,0 +1,18 @@
+---
+title: "Resume"
+---
+
+<!-- Drop your resume.pdf in this folder and uncomment the next line for a download button -->
+<!-- [Download PDF resume](resume.pdf){.btn .btn-dark} -->
+
+## Experience
+
+**GIS Analyst**, Organization Name · 2023–present
+: Built and maintained enterprise geodatabases; produced web maps and StoryMaps for public engagement.
+
+**GIS Technician**, Organization Name · 2021–2023
+: Digitized and QA'd parcel and infrastructure data; automated workflows with Python.
+
+## Education
+
+**B.S. Geography (GIS concentration)**, University Name · 2021

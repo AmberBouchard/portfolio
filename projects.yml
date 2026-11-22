@@ -1,0 +1,40 @@
+# ------------------------------------------------------------------
+# Your portfolio tiles. Each block is one tile on the home page.
+#   title:      the word(s) shown on top of the picture
+#   subtitle:   small label under the title (StoryMap, Web App, Map...)
+#   image:      picture for the tile (put files in the images/ folder)
+#   path:       where clicking goes:
+#                 - a full https:// link (StoryMap, Connect Cloud app), or
+#                 - a page in this site, like maps/landcover.qmd
+# Tiles appear in the order listed here.
+# ------------------------------------------------------------------
+
+- title: "Flood Risk"
+  subtitle: "StoryMap"
+  image: images/flood.png
+  path: https://storymaps.arcgis.com/
+
+- title: "Transit Access"
+  subtitle: "Shiny Web App"
+  image: images/transit.png
+  path: https://connect.posit.cloud/
+
+- title: "Land Cover"
+  subtitle: "Map"
+  image: images/landcover.png
+  path: maps/landcover.qmd
+
+- title: "Crime Hotspots"
+  subtitle: "Shiny Web App"
+  image: images/heat.png
+  path: https://connect.posit.cloud/
+
+- title: "Terrain"
+  subtitle: "Map"
+  image: images/elevation.png
+  path: maps/elevation.qmd
+
+- title: "Census Change"
+  subtitle: "StoryMap"
+  image: images/census.png
+  path: https://storymaps.arcgis.com/

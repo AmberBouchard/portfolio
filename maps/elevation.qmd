@@ -1,0 +1,13 @@
+---
+title: "Terrain & Hillshade"
+subtitle: "Shaded relief from a 10 m DEM"
+---
+
+![](../images/elevation.png){.map-figure}
+
+**Tools:** R (terra, tmap)\
+**Data:** USGS 3DEP 10 m DEM
+
+A short paragraph describing the project goal, your method, and what the map shows.
+
+[← Back to portfolio](../index.qmd)

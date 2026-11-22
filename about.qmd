@@ -1,0 +1,15 @@
+---
+title: "About"
+---
+
+I'm a GIS professional who builds maps, spatial analyses, and interactive web tools. I work across ArcGIS Pro, ArcGIS Online, R (sf, terra, Shiny), and Python.
+
+**Skills**
+
+- Cartography and map design
+- Spatial analysis and geoprocessing
+- ArcGIS StoryMaps and Experience Builder
+- Interactive web apps with R Shiny
+- Remote sensing and raster analysis
+
+**Contact**: [you@example.com](mailto:you@example.com)

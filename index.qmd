@@ -1,0 +1,20 @@
+---
+title: ""
+page-layout: full
+listing:
+  id: portfolio
+  contents: projects.yml
+  type: custom
+  template: tiles.ejs
+  sort: false
+---
+
+::: {.hero}
+# Your Name
+GIS Analyst · Cartography · Spatial Data Science
+
+Maps, StoryMaps and interactive apps that turn spatial data into decisions.
+:::
+
+::: {#portfolio}
+:::

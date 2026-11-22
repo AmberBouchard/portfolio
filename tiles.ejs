@@ -1,0 +1,13 @@
+```{=html}
+<div class="tile-grid">
+<% for (const item of items) { const external = String(item.path).startsWith("http"); %>
+<a class="tile" href="<%- item.path %>" <%= external ? 'target="_blank" rel="noopener"' : '' %> <%= metadataAttrs(item) %>>
+<img src="<%- item.image %>" alt="<%= item.title %>" loading="lazy">
+<div class="tile-overlay">
+<span class="tile-title"><%= item.title %></span>
+<% if (item.subtitle) { %><span class="tile-label"><%= item.subtitle %><%= external ? ' ↗' : '' %></span><% } %>
+</div>
+</a>
+<% } %>
+</div>
+```

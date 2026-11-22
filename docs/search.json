@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m a GIS professional who builds maps, spatial analyses, and interactive web tools. I work across ArcGIS Pro, ArcGIS Online, R (sf, terra, Shiny), and Python.\nSkills\n\nCartography and map design\nSpatial analysis and geoprocessing\nArcGIS StoryMaps and Experience Builder\nInteractive web apps with R Shiny\nRemote sensing and raster analysis\n\nContact: you@example.com"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "GIS Analyst, Organization Name · 2023–present\n\nBuilt and maintained enterprise geodatabases; produced web maps and StoryMaps for public engagement.\n\nGIS Technician, Organization Name · 2021–2023\n\nDigitized and QA’d parcel and infrastructure data; automated workflows with Python."
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Resume",
+    "section": "",
+    "text": "GIS Analyst, Organization Name · 2023–present\n\nBuilt and maintained enterprise geodatabases; produced web maps and StoryMaps for public engagement.\n\nGIS Technician, Organization Name · 2021–2023\n\nDigitized and QA’d parcel and infrastructure data; automated workflows with Python."
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "Education",
+    "text": "Education\nB.S. Geography (GIS concentration), University Name · 2021"
+  },
+  {
+    "objectID": "maps/landcover.html",
+    "href": "maps/landcover.html",
+    "title": "Land Cover Classification",
+    "section": "",
+    "text": "Tools: ArcGIS Pro, Image Classification Wizard\nData: Sentinel-2 Level-2A imagery\nA short paragraph describing the project goal, your method, and what the map shows.\n← Back to portfolio"
+  },
+  {
+    "objectID": "maps/elevation.html",
+    "href": "maps/elevation.html",
+    "title": "Terrain & Hillshade",
+    "section": "",
+    "text": "Tools: R (terra, tmap)\nData: USGS 3DEP 10 m DEM\nA short paragraph describing the project goal, your method, and what the map shows.\n← Back to portfolio"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Your Name",
+    "section": "",
+    "text": "Your Name\nGIS Analyst · Cartography · Spatial Data Science\nMaps, StoryMaps and interactive apps that turn spatial data into decisions.\n\n\n\n\n\n\n\nFlood Risk\nStoryMap ↗\n\n\n\n\n\n\nTransit Access\nShiny Web App ↗\n\n\n\n\n\n\nLand Cover\nMap\n\n\n\n\n\n\nCrime Hotspots\nShiny Web App ↗\n\n\n\n\n\n\nTerrain\nMap\n\n\n\n\n\n\nCensus Change\nStoryMap ↗\n\n\n\n\nNo matching items"
+  }
+]

@@ -1,0 +1,13 @@
+---
+title: "Land Cover Classification"
+subtitle: "Supervised classification of Sentinel-2 imagery"
+---
+
+![](../images/landcover.png){.map-figure}
+
+**Tools:** ArcGIS Pro, Image Classification Wizard\
+**Data:** Sentinel-2 Level-2A imagery
+
+A short paragraph describing the project goal, your method, and what the map shows.
+
+[← Back to portfolio](../index.qmd)
