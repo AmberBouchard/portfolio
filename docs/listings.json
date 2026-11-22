@@ -1,9 +1,6 @@
 [
   {
     "listing": "/index.html",
-    "items": [
-      "/maps/landcover.html",
-      "/maps/elevation.html"
-    ]
+    "items": []
   }
 ]

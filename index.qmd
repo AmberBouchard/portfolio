@@ -10,10 +10,8 @@ listing:
 ---
 
 ::: {.hero}
-# Your Name
-GIS Analyst · Cartography · Spatial Data Science
-
-Maps, StoryMaps and interactive apps that turn spatial data into decisions.
+# Amber Bouchard
+Spatial Data Science · ArcGIS Pro · R
 :::
 
 ::: {#portfolio}

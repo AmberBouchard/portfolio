@@ -1,51 +1,44 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Amber Bouchard",
     "section": "",
-    "text": "I’m a GIS professional who builds maps, spatial analyses, and interactive web tools. I work across ArcGIS Pro, ArcGIS Online, R (sf, terra, Shiny), and Python.\nSkills\n\nCartography and map design\nSpatial analysis and geoprocessing\nArcGIS StoryMaps and Experience Builder\nInteractive web apps with R Shiny\nRemote sensing and raster analysis\n\nContact: you@example.com"
+    "text": "Amber Bouchard\nSpatial Data Science · ArcGIS Pro · R\n\n\n\n\n\n\n\nFFAR Soil Health Portfolio\nShiny Web App ↗\n\n\n\n\n\n\nUrban Land Evaluation & Site Assessment\nStatic Map\n\n\n\n\n\n\nGeese in the James River Basin\nStatic Map\n\n\n\n\n\n\nStatic AU Progress Tracking\nShiny Web App ↗\n\n\n\n\n\n\nUnder Construction\nPlaceholder\n\n\n\n\n\n\nUnder Construction\nPlaceholder ↗\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resume.html",
     "href": "resume.html",
     "title": "Resume",
     "section": "",
-    "text": "GIS Analyst, Organization Name · 2023–present\n\nBuilt and maintained enterprise geodatabases; produced web maps and StoryMaps for public engagement.\n\nGIS Technician, Organization Name · 2021–2023\n\nDigitized and QA’d parcel and infrastructure data; automated workflows with Python."
-  },
-  {
-    "objectID": "resume.html#experience",
-    "href": "resume.html#experience",
-    "title": "Resume",
-    "section": "",
-    "text": "GIS Analyst, Organization Name · 2023–present\n\nBuilt and maintained enterprise geodatabases; produced web maps and StoryMaps for public engagement.\n\nGIS Technician, Organization Name · 2021–2023\n\nDigitized and QA’d parcel and infrastructure data; automated workflows with Python."
+    "text": "Master’s in Environmental Studies, expected May 2027 | Virginia Commonwealth University, Richmond, VA\nCoursework in GIS, Remote Sensing, Soil Science and Pollution Analysis, Applied Restoration Ecology\nB.A. Environmental Sciences and Anthropology | University of Virginia, Charlottesville, VA | 2013-2017"
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
     "title": "Resume",
-    "section": "Education",
-    "text": "Education\nB.S. Geography (GIS concentration), University Name · 2021"
+    "section": "",
+    "text": "Master’s in Environmental Studies, expected May 2027 | Virginia Commonwealth University, Richmond, VA\nCoursework in GIS, Remote Sensing, Soil Science and Pollution Analysis, Applied Restoration Ecology\nB.A. Environmental Sciences and Anthropology | University of Virginia, Charlottesville, VA | 2013-2017"
   },
   {
-    "objectID": "maps/landcover.html",
-    "href": "maps/landcover.html",
-    "title": "Land Cover Classification",
-    "section": "",
-    "text": "Tools: ArcGIS Pro, Image Classification Wizard\nData: Sentinel-2 Level-2A imagery\nA short paragraph describing the project goal, your method, and what the map shows.\n← Back to portfolio"
+    "objectID": "resume.html#core-competencies-technical-skills",
+    "href": "resume.html#core-competencies-technical-skills",
+    "title": "Resume",
+    "section": "CORE COMPETENCIES & TECHNICAL SKILLS",
+    "text": "CORE COMPETENCIES & TECHNICAL SKILLS\nEsri Suite: ArcGIS Pro, ArcGIS Online/Enterprise, Experience Builder, StoryMaps, Arcade\nData Science: R (Quarto, Shiny, Tidyverse), Python/ArcPy, SQL, Spatial Statistics, Excel, Data Visualization\nField Skills GNSS/GPS Field Data Capture, Soil & Vegetation Sampling, Wetland & RPA Delineation\nProfessional & Soft Skills Project Management, SOP Development, Stakeholder & Client Engagement"
   },
   {
-    "objectID": "maps/elevation.html",
-    "href": "maps/elevation.html",
-    "title": "Terrain & Hillshade",
-    "section": "",
-    "text": "Tools: R (terra, tmap)\nData: USGS 3DEP 10 m DEM\nA short paragraph describing the project goal, your method, and what the map shows.\n← Back to portfolio"
+    "objectID": "resume.html#environmental-sector-experience",
+    "href": "resume.html#environmental-sector-experience",
+    "title": "Resume",
+    "section": "ENVIRONMENTAL SECTOR EXPERIENCE",
+    "text": "ENVIRONMENTAL SECTOR EXPERIENCE\nGraduate Research Assistant; Virginia Commonwealth University | uLESA Team & Jones Lab\nSeptember 2025 - Present\nUsing ArcGIS Pro, developed an adapted Land Evaluation and Site Assessment (LESA) analysis for urban agriculture suitability in partnership with the City of Dayton, Ohio. Coordinated with local governmental and community stakeholders to assess over 20 unique pollution and land evaluation factors in a comprehensive geospatial model. Served as teaching assistant for an undergraduate applied GIS course.\nPresented findings at the annual VAMLIS (Virginia Association for Mapping and Land Information Systems) conference in October 2026.\nGIS Technician; Virginia Department of Environmental Quality | Richmond Central Office\nMay 2026 - September 2026 (Seasonal)\nLed the implementation of a major data overhaul of all Virginia riverine spatial data units as part of the Water Quality Assessment team. Created best practices documentation and live ArcGIS tutorials for future project iterations, coordinated with regional DEQ office assessors to ensure data alignment with regional surface water assessment and monitoring team needs, and wrote quality assurance and progress tracking scripts using Python and R.\nScientific Programs Intern; Foundation for Food & Agriculture Research (FFAR) | Remote\nMay 2026 - December 2026\nAs part of FFAR’s Scientific Workforce Development priority area, worked with the program director to address challenges in recruitment and retention across the agriculture sciences industry and academic workforce. Developed presentation materials for workforce strategy project proposals in alignment with USDA priorities and created novel interactive spatial data tools to better visualize the geographic distribution of workforce program grant investment.\nResearch Assistant; University of Virginia | Anthropology and Environmental Science Departments\nSeptember 2015-April 2017\nConducted fieldwork with the Center for the Development of Cambodian Agriculture (CEDAC) on the emergence and spread of novel organic produce farming and land management practices in rural Cambodia. Awarded Jefferson Public Citizens Award for Undergraduate Research.\nContributed to ecological and hydrological research on Morven Research Farm. Assessed nitrogen flows and biochar fertilizer implementation on Timber Creek permaculture farm in collaboration with agriculturalists."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Your Name",
-    "section": "",
-    "text": "Your Name\nGIS Analyst · Cartography · Spatial Data Science\nMaps, StoryMaps and interactive apps that turn spatial data into decisions.\n\n\n\n\n\n\n\nFlood Risk\nStoryMap ↗\n\n\n\n\n\n\nTransit Access\nShiny Web App ↗\n\n\n\n\n\n\nLand Cover\nMap\n\n\n\n\n\n\nCrime Hotspots\nShiny Web App ↗\n\n\n\n\n\n\nTerrain\nMap\n\n\n\n\n\n\nCensus Change\nStoryMap ↗\n\n\n\n\nNo matching items"
+    "objectID": "resume.html#management-experience",
+    "href": "resume.html#management-experience",
+    "title": "Resume",
+    "section": "MANAGEMENT EXPERIENCE",
+    "text": "MANAGEMENT EXPERIENCE\nManaging Director | Elite Ivy Tutors, Remote\nNovember 2019 - July 2025\nManaged ~40 remote employees at a prestigious test prep tutoring company. Was independently responsible for all client relations, student onboarding, employee assignments, sales calls, and billing. Acted as hiring manager while operationally supporting the company’s CEO and improving sales conversion rate by over 25% year to year.\nOperations and Scheduling Manager | Quickness RVA, Richmond, VA\nAugust 2017 - January 2019\nPlayed a crucial role in the growth of a locally owned small business in a rapidly evolving market while managing over thirty employees."
   }
 ]

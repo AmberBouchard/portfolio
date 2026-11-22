@@ -9,32 +9,32 @@
 # Tiles appear in the order listed here.
 # ------------------------------------------------------------------
 
-- title: "Flood Risk"
-  subtitle: "StoryMap"
-  image: images/flood.png
-  path: https://storymaps.arcgis.com/
-
-- title: "Transit Access"
+- title: "FFAR Soil Health Portfolio"
   subtitle: "Shiny Web App"
-  image: images/transit.png
-  path: https://connect.posit.cloud/
+  image: FFARscreenshot.png
+  path: https://amberbouchard-ffar-soil-health-dashboard.share.connect.posit.cloud/
+  
+- title: "Urban Land Evaluation & Site Assessment"
+  subtitle: "Static Map"
+  image: images/FinaluLESALayout-AmberBouchard.jpg
+  path: iamages/FinaluLESALayout-AmberBouchard.jpg
 
-- title: "Land Cover"
-  subtitle: "Map"
-  image: images/landcover.png
-  path: maps/landcover.qmd
+- title: "Geese in the James River Basin"
+  subtitle: "Static Map"
+  image: images/geeseclusters.jpg
+  path: images/geeseclusters.jpg
 
-- title: "Crime Hotspots"
+- title: "Static AU Progress Tracking"
   subtitle: "Shiny Web App"
-  image: images/heat.png
-  path: https://connect.posit.cloud/
+  image: images/DEQScreenshot.png
+  path: https://abouchard.shinyapps.io/AUProgress/
 
-- title: "Terrain"
-  subtitle: "Map"
+- title: "Under Construction"
+  subtitle: "Placeholder"
   image: images/elevation.png
   path: maps/elevation.qmd
 
-- title: "Census Change"
-  subtitle: "StoryMap"
+- title: "Under Construction"
+  subtitle: "Placeholder"
   image: images/census.png
   path: https://storymaps.arcgis.com/

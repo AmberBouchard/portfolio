@@ -2,17 +2,57 @@
 title: "Resume"
 ---
 
-<!-- Drop your resume.pdf in this folder and uncomment the next line for a download button -->
-<!-- [Download PDF resume](resume.pdf){.btn .btn-dark} -->
+## EDUCATION
 
-## Experience
+**Master's in Environmental Studies, expected May 2027** | Virginia Commonwealth University, Richmond, VA\
+Coursework in GIS, Remote Sensing, Soil Science and Pollution Analysis, Applied Restoration Ecology
 
-**GIS Analyst**, Organization Name · 2023–present
-: Built and maintained enterprise geodatabases; produced web maps and StoryMaps for public engagement.
+**B.A. Environmental Sciences and Anthropology** | University of Virginia, Charlottesville, VA | 2013-2017
 
-**GIS Technician**, Organization Name · 2021–2023
-: Digitized and QA'd parcel and infrastructure data; automated workflows with Python.
+## CORE COMPETENCIES & TECHNICAL SKILLS
 
-## Education
+*Esri Suite:* ArcGIS Pro, ArcGIS Online/Enterprise, Experience Builder, StoryMaps, Arcade
 
-**B.S. Geography (GIS concentration)**, University Name · 2021
+*Data Science:* R (Quarto, Shiny, Tidyverse), Python/ArcPy, SQL, Spatial Statistics, Excel, Data Visualization
+
+*Field Skills* GNSS/GPS Field Data Capture, Soil & Vegetation Sampling, Wetland & RPA Delineation
+
+*Professional & Soft Skills* Project Management, SOP Development, Stakeholder & Client Engagement
+
+## ENVIRONMENTAL SECTOR EXPERIENCE
+
+**Graduate Research Assistant; Virginia Commonwealth University** | uLESA Team & Jones Lab\
+*September 2025 - Present*
+
+Using ArcGIS Pro, developed an adapted Land Evaluation and Site Assessment (LESA) analysis for urban agriculture suitability in partnership with the City of Dayton, Ohio. Coordinated with local governmental and community stakeholders to assess over 20 unique pollution and land evaluation factors in a comprehensive geospatial model. Served as teaching assistant for an undergraduate applied GIS course.
+
+Presented findings at the annual VAMLIS (Virginia Association for Mapping and Land Information Systems) conference in October 2026.
+
+**GIS Technician; Virginia Department of Environmental Quality** | Richmond Central Office\
+*May 2026 - September 2026 (Seasonal)*
+
+Led the implementation of a major data overhaul of all Virginia riverine spatial data units as part of the Water Quality Assessment team. Created best practices documentation and live ArcGIS tutorials for future project iterations, coordinated with regional DEQ office assessors to ensure data alignment with regional surface water assessment and monitoring team needs, and wrote quality assurance and progress tracking scripts using Python and R.
+
+**Scientific Programs Intern; Foundation for Food & Agriculture Research (FFAR)** | Remote\
+*May 2026 - December 2026*
+
+As part of FFAR's Scientific Workforce Development priority area, worked with the program director to address challenges in recruitment and retention across the agriculture sciences industry and academic workforce. Developed presentation materials for workforce strategy project proposals in alignment with USDA priorities and created novel interactive spatial data tools to better visualize the geographic distribution of workforce program grant investment.
+
+**Research Assistant; University of Virginia** | Anthropology and Environmental Science Departments\
+*September 2015-April 2017*
+
+Conducted fieldwork with the Center for the Development of Cambodian Agriculture (CEDAC) on the emergence and spread of novel organic produce farming and land management practices in rural Cambodia. Awarded Jefferson Public Citizens Award for Undergraduate Research.
+
+Contributed to ecological and hydrological research on Morven Research Farm. Assessed nitrogen flows and biochar fertilizer implementation on Timber Creek permaculture farm in collaboration with agriculturalists.
+
+## MANAGEMENT EXPERIENCE
+
+**Managing Director** | Elite Ivy Tutors, Remote\
+*November 2019 - July 2025*
+
+Managed ~40 remote employees at a prestigious test prep tutoring company. Was independently responsible for all client relations, student onboarding, employee assignments, sales calls, and billing. Acted as hiring manager while operationally supporting the company's CEO and improving sales conversion rate by over 25% year to year.
+
+**Operations and Scheduling Manager** | Quickness RVA, Richmond, VA \
+*August 2017 - January 2019*
+
+Played a crucial role in the growth of a locally owned small business in a rapidly evolving market while managing over thirty employees.
