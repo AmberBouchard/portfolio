@@ -16,7 +16,7 @@
   
 - title: "Urban Land Evaluation & Site Assessment"
   subtitle: "Static Map"
-  image: images/FinaluLESALayout-AmberBouchard.jpg
+  image: images/uLESAtile.png
   path: images/FinaluLESALayout-AmberBouchard.jpg
 
 - title: "Static AU Progress Tracking"
@@ -24,17 +24,17 @@
   image: images/DEQScreenshot.png
   path: https://abouchard.shinyapps.io/AUProgress/
 
-- title: "Under Construction"
-  subtitle: "Placeholder"
-  image: images/census.png
-  path: 
+- title: "Post-Helene Debris Assessment using Remote Sensing Data"
+  subtitle: "Quarto Document"
+  image: images/helene-tile.jpg
+  path: helene-project/projects/helene-debris.qmd
 
-- title: "Under Construction"
-  subtitle: "Placeholder"
-  image: images/census.png
-  path: 
+- title: "Pollution Sites in VA by County"
+  subtitle: "Static Map"
+  image: images/pollutiontile.png
+  path: images/pollutionchloropleth.jpg
 
-- title: "Under Construction"
-  subtitle: "Placeholder"
-  image: images/census.png
-  path: 
+- title: "Geese Clusters in the James River Basin"
+  subtitle: "Static Map"
+  image: images/geese-tile.png
+  path: images/GeeseCluster2.png

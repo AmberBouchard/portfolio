@@ -79,9 +79,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-subtitle','listing-image',{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-title','listing-subtitle','listing-image','listing-path','listing-project','listing-website','listing-format','listing-language','listing-lightbox','listing-outputHref','listing-author','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
       
-      searchColumns: ["listing-title","listing-subtitle","listing-image"],
+      searchColumns: ["listing-title","listing-subtitle","listing-image","listing-path","listing-project","listing-website","listing-format","listing-language","listing-lightbox","listing-outputHref","listing-author","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -208,7 +208,7 @@ window.Quarto = {
 </a>
 
 <a class="tile" href="images/FinaluLESALayout-AmberBouchard.jpg" data-index="1">
-<img src="images/FinaluLESALayout-AmberBouchard.jpg" alt="Urban Land Evaluation &amp; Site Assessment" loading="lazy">
+<img src="images/uLESAtile.png" alt="Urban Land Evaluation &amp; Site Assessment" loading="lazy">
 <div class="tile-overlay">
 <span class="tile-title">Urban Land Evaluation &amp; Site Assessment</span>
 <span class="tile-label">Static Map</span>
@@ -223,27 +223,27 @@ window.Quarto = {
 </div>
 </a>
 
-<a class="tile" href="" data-index="3">
-<img src="images/census.png" alt="Under Construction" loading="lazy">
+<a class="tile" href="./helene-project/projects/helene-debris.html" data-index="3" data-listing-file-modified-sort="1795796781000" data-listing-reading-time-sort="13" data-listing-word-count-sort="2486">
+<img src="images/helene-tile.jpg" alt="Post-Helene Debris Assessment using Remote Sensing Data" loading="lazy">
 <div class="tile-overlay">
-<span class="tile-title">Under Construction</span>
-<span class="tile-label">Placeholder</span>
+<span class="tile-title">Post-Helene Debris Assessment using Remote Sensing Data</span>
+<span class="tile-label">Quarto Document</span>
 </div>
 </a>
 
-<a class="tile" href="" data-index="4">
-<img src="images/census.png" alt="Under Construction" loading="lazy">
+<a class="tile" href="images/pollutionchloropleth.jpg" data-index="4">
+<img src="images/pollutiontile.png" alt="Pollution Sites in VA by County" loading="lazy">
 <div class="tile-overlay">
-<span class="tile-title">Under Construction</span>
-<span class="tile-label">Placeholder</span>
+<span class="tile-title">Pollution Sites in VA by County</span>
+<span class="tile-label">Static Map</span>
 </div>
 </a>
 
-<a class="tile" href="" data-index="5">
-<img src="images/census.png" alt="Under Construction" loading="lazy">
+<a class="tile" href="images/GeeseCluster2.png" data-index="5">
+<img src="images/geese-tile.png" alt="Geese Clusters in the James River Basin" loading="lazy">
 <div class="tile-overlay">
-<span class="tile-title">Under Construction</span>
-<span class="tile-label">Placeholder</span>
+<span class="tile-title">Geese Clusters in the James River Basin</span>
+<span class="tile-label">Static Map</span>
 </div>
 </a>
 
