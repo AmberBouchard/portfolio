@@ -26,7 +26,7 @@
 
 - title: "Post-Helene Debris Assessment using Remote Sensing Data"
   subtitle: "Quarto Document"
-  image: images/helene-tile.jpg
+  image: images/NDREtile.png
   path: helene-project/projects/helene-debris.qmd
 
 - title: "Pollution Sites in VA by County"
