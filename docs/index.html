@@ -79,9 +79,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-subtitle','listing-image','listing-path','listing-project','listing-website','listing-format','listing-language','listing-author','listing-description','listing-filename',{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-title','listing-subtitle','listing-image',{ data: ['index'] },{ data: ['categories'] }],
       
-      searchColumns: ["listing-title","listing-subtitle","listing-image","listing-path","listing-project","listing-website","listing-format","listing-language","listing-author","listing-description","listing-filename"],
+      searchColumns: ["listing-title","listing-subtitle","listing-image"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -215,15 +215,7 @@ window.Quarto = {
 </div>
 </a>
 
-<a class="tile" href="images/geeseclusters.jpg" data-index="2">
-<img src="images/geeseclusters.jpg" alt="Geese in the James River Basin" loading="lazy">
-<div class="tile-overlay">
-<span class="tile-title">Geese in the James River Basin</span>
-<span class="tile-label">Static Map</span>
-</div>
-</a>
-
-<a class="tile" href="https://abouchard.shinyapps.io/AUProgress/" target="_blank" rel="noopener" data-index="3">
+<a class="tile" href="https://abouchard.shinyapps.io/AUProgress/" target="_blank" rel="noopener" data-index="2">
 <img src="images/DEQScreenshot.png" alt="Static AU Progress Tracking" loading="lazy">
 <div class="tile-overlay">
 <span class="tile-title">Static AU Progress Tracking</span>
@@ -231,19 +223,27 @@ window.Quarto = {
 </div>
 </a>
 
-<a class="tile" href="./maps/elevation.qmd" data-index="4">
-<img src="images/elevation.png" alt="Under Construction" loading="lazy">
+<a class="tile" href="" data-index="3">
+<img src="images/census.png" alt="Under Construction" loading="lazy">
 <div class="tile-overlay">
 <span class="tile-title">Under Construction</span>
 <span class="tile-label">Placeholder</span>
 </div>
 </a>
 
-<a class="tile" href="https://storymaps.arcgis.com/" target="_blank" rel="noopener" data-index="5">
+<a class="tile" href="" data-index="4">
 <img src="images/census.png" alt="Under Construction" loading="lazy">
 <div class="tile-overlay">
 <span class="tile-title">Under Construction</span>
-<span class="tile-label">Placeholder ↗</span>
+<span class="tile-label">Placeholder</span>
+</div>
+</a>
+
+<a class="tile" href="" data-index="5">
+<img src="images/census.png" alt="Under Construction" loading="lazy">
+<div class="tile-overlay">
+<span class="tile-title">Under Construction</span>
+<span class="tile-label">Placeholder</span>
 </div>
 </a>
 

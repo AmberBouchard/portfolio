@@ -19,11 +19,6 @@
   image: images/FinaluLESALayout-AmberBouchard.jpg
   path: images/FinaluLESALayout-AmberBouchard.jpg
 
-- title: "Geese in the James River Basin"
-  subtitle: "Static Map"
-  image: images/geeseclusters.jpg
-  path: images/geeseclusters.jpg
-
 - title: "Static AU Progress Tracking"
   subtitle: "Shiny Web App"
   image: images/DEQScreenshot.png
@@ -31,10 +26,15 @@
 
 - title: "Under Construction"
   subtitle: "Placeholder"
-  image: images/elevation.png
-  path: maps/elevation.qmd
+  image: images/census.png
+  path: 
 
 - title: "Under Construction"
   subtitle: "Placeholder"
   image: images/census.png
-  path: https://storymaps.arcgis.com/
+  path: 
+
+- title: "Under Construction"
+  subtitle: "Placeholder"
+  image: images/census.png
+  path: 

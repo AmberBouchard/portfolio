@@ -69,15 +69,17 @@ main:has(.hero) {
   justify-content: center;
   background: rgba(10, 14, 22, 0.45);
   transition: background 0.25s ease;
+  padding: 1rem;
 }
 
 .tile-title {
   color: #fff;
-  font-size: 1.9rem;
+  font-size: 1.3rem;
   font-weight: 800;
   letter-spacing: 0.04em;
   text-transform: uppercase;
   text-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+  text-align: center;
 }
 
 .tile-label {
