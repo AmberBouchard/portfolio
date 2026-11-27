@@ -14,7 +14,7 @@
   image: images/FFARscreenshot.png
   path: https://amberbouchard-ffar-soil-health-dashboard.share.connect.posit.cloud/
   
-- title: "Urban Land Evaluation & Site Assessment"
+- title: "Richmond Urban Land Evaluation & Site Assessment"
   subtitle: "Static Map"
   image: images/uLESAtile.png
   path: images/FinaluLESALayout-AmberBouchard.jpg
@@ -29,6 +29,11 @@
   image: images/NDREtile.png
   path: helene-project/projects/helene-debris.qmd
 
+- title: "Montgomery Urban Land Evaluation and Site Assessment - Pollution Visualization"
+  subtitle: "Static Map"
+  image: images/DaytonTile.png
+  path: images/RedandYellowFlagZoom.jpg
+  
 - title: "Pollution Sites in VA by County"
   subtitle: "Static Map"
   image: images/pollutiontile.png
